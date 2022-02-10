@@ -1,26 +1,6 @@
 body {
+    margin: 0;
     font-family: Gill Sans, sans-serif;
     background-color: orange;
     text-align: center;
   }
-
-img.gif{
-      width: 30%;
-      height: 30%;
-  }
-
-img{
-      width: 18%;
-      height: 18%;
-  }
-
-a{
-      font-size:x-large;
-  }
-
-div.text{
-    display: inline-block;
-    inline-size: 60%;
-    font-family:Arial ;
-    font-size: medium;
- }
