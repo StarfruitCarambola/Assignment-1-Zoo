@@ -2,4 +2,10 @@ body {
   font-family: Gill Sans, sans-serif;
   background-color: salmon;
   text-align: center;
+  margin: 0;
+}
+
+img{
+  width: 40%;
+  height: 40%;
 }
