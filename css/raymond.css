@@ -4,3 +4,23 @@ body {
     background-color: orange;
     text-align: center;
   }
+
+.animal-gallery{
+  display: flex;
+  
+}
+
+.animal{
+  flex: 50%;
+  padding: 10px;
+}
+
+.animal img{
+  width: 95%; 
+}
+
+.animal p{
+  background-color: white;
+  padding-left: 20px;
+  padding-right: 20px;
+}
