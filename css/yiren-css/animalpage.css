@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+    font-family: Gill Sans, sans-serif;
+    text-align: center;
+    background-image: url("../../img/yiren-imgs/background.jpg");
+    background-size: auto;
+}
+img{
+    width:80%;
+    height:50%;
+    object-fit:cover;
+    padding: 10px 0 10px 0;
+}
+.title,.paragraph {
+    margin: auto;
+    width: auto;
+    text-align: center;
+    padding: 10px 10px 10px 10px;
+}
+.holderTop,.holderBottom,.holderMid{
+    margin: auto;
+    height:auto;
+    background:white;
+    box-shadow: 10px 10px 5px grey;
+    border-radius:25px;
+}
+.holderTop{
+    margin-top: 20px;
+    width: fit-content;
+    margin-bottom: 10px;
+}
+.holderBottom{
+    margin-top: 10px;
+    width: 50%;
+}
+.holderMid{
+    width:30%;
+}
