@@ -15,6 +15,7 @@ body {
 .animal {
   flex: 25%;
   margin: 15px;
+  font-size: 25px;
   background-image: url("../img/gravel.jpg");
 }
 
@@ -33,3 +34,17 @@ body {
   margin: 0 auto;
 }
 
+.text {
+  font-size: 20px;
+  text-align: center;
+  margin-left: 5%;
+  margin-right: 5%;
+  background-color: white;
+  padding: 20px;
+  border: 2px solid black;
+}
+
+.gif {
+  width: 40%;
+  height: 40%;
+}
